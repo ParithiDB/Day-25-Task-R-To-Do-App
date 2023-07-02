@@ -87,7 +87,7 @@ function App() {
 
   return (
     <div className='App'>
-      <h1 className='py-5'>My Todo</h1>
+      <h1 className='py-5'>To-Do</h1>
       <form>
       <div className='me-3 my-3'>
       <input
@@ -111,7 +111,7 @@ function App() {
       </form>
       <div className='mytodos'>
       <div>
-      <h3 className='py-3'><b>My Todos</b></h3>
+      <h3 className='py-3'><b>My To-Do's</b></h3>
       </div>
         
         <div>
